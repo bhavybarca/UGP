@@ -1,4 +1,3 @@
 # UGP
 Under Grad Project CSE-IITK NAO
 
-DO NOT USE WITHOUT PERMISSION 
